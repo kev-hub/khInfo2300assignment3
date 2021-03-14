@@ -1,2 +1,2 @@
 # khInfo2300assignment3
-Hosting php website live
+Hosting php website live using heroku
